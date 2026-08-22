@@ -17,9 +17,9 @@ The program use the following five classes <br>
 
 <img width="910" height="480" alt="image" src="https://github.com/user-attachments/assets/e10ced59-ab39-444f-acf4-23b6b0433f40" />
 
-<br>
 
-2. Menu
+
+<br>2. Menu
 
 <img width="830" height="285" alt="image" src="https://github.com/user-attachments/assets/33a14b89-821b-40e3-981a-00e321796d9e" />
 
